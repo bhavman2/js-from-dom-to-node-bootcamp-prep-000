@@ -67,7 +67,7 @@ module.js:471
 Error: Cannot find module '/home/jmburges/code/labs/index.js'                                                                 
     at Function.Module._resolveFilename (module.js:469:15)                                                                    
     at Function.Module._load (module.js:417:25)                                                                               
-    at Module.runMain (module.js:604:10)                                                       lear                               
+    at Module.runMain (module.js:604:10)                                                                                      
     at run (bootstrap_node.js:393:7)                                                                                          
     at startup (bootstrap_node.js:150:9)                                                                                      
     at bootstrap_node.js:508:3                                                                                                
